@@ -8,6 +8,7 @@ vadersentiment==3.3.2
 spacy>=2.2.0,<3.0.0
 scikit-learn==0.23.2
 pipwin==0.5.0
+http://www.portaudio.com/archives/pa_stable_v190600_20161030.tgz
 pyaudio==0.2.11
 google-api-python-client==1.12.5
 
