@@ -9,6 +9,7 @@ spacy>=2.2.0,<3.0.0
 scikit-learn==0.23.2
 pipwin==0.5.0
 pyaudio==0.2.11
+portaudio.h
 
 google-api-python-client==1.12.5
 
