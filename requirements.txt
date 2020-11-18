@@ -8,7 +8,7 @@ vadersentiment==3.3.2
 spacy>=2.2.0,<3.0.0
 scikit-learn==0.23.2
 pipwin==0.5.0
-PyAudio==0.2.11
+https://files.pythonhosted.org/packages/ba/65/ec3042de9a96e8c2eadf9bb88ddbcda434d5c679360f851a2562dd8b9942/PyAudio-0.2.11-cp27-cp27m-win32.whl
 google-api-python-client==1.12.5
 
 
